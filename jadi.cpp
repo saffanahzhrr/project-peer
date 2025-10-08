@@ -60,6 +60,6 @@ int main() {
     }
 
     cout << "Alat Converter Akan Terus Dikembangkan, Terima Kasih:)\n\n";
-    
+
     return 0;
 }
