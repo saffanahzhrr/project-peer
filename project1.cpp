@@ -3,6 +3,10 @@ using namespace std;
 
 int main() {
 
+    cout << "\n\n================================================\n";
+    cout << "==============Alat converter Waktu==============\n";
+    cout << "================================================\n\n";
+    
     int tahun;
     int bulan;
     int pekan;
@@ -12,9 +16,7 @@ int main() {
     int menit;
     int detik;
     
-    cout << "\n\n================================================\n";
-    cout << "==============Alat converter Waktu==============\n";
-    cout << "================================================\n\n";
+
 
     cout << "Masukkan Angka: ";
     cin >> angka;
