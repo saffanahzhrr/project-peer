@@ -26,6 +26,7 @@ int main() {
             cout << i << " ";
         }
     }
-    cout << endl;
+    cout << "\n";
+    
     return 0;
 }
